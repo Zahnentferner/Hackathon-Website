@@ -20,14 +20,14 @@ export const metadata: Metadata = {
   openGraph: {
     title: "The Unstoppable Hackathon",
     description: "48 hours of innovation, coding, and creativity, building decentralized unstoppable projects",
-    url: "https://hackathon.stability.nexus",
+    url: "https://unstoppable-hackathon.vercel.app",
     siteName: "The Unstoppable Hackathon",
     images: [
       {
-        url: "/unstoppable.svg",
-        width: 600,
-        height: 600,
-        alt: "The Unstoppable Hackathon",
+        url: "/og-trophy.jpg",
+        width: 1200,
+        height: 630,
+        alt: "The Unstoppable Hackathon - Trophy",
       },
     ],
     locale: "en_US",
@@ -37,7 +37,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "The Unstoppable Hackathon",
     description: "48 hours of innovation, coding, and creativity, building decentralized unstoppable projects",
-    images: ["/unstoppable.svg"],
+    images: ["/og-trophy.jpg"],
   },
 }
 
